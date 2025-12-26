@@ -31,8 +31,8 @@ export default function ExclusiveOffer() {
               </span>
             </h2>
             <p className="text-white/60 mb-8 font-light leading-relaxed max-w-md">
-              Một kiệt tác quý hiếm. Chỉ 1 trong 10.000 thùng gỗ sồi mới đủ phẩm
-              chất để tạo nên hương vị mượt mà đặc trưng của Blue Label.
+              A rare masterpiece. Only one in 10,000 casks possesses the elusive
+              quality required to craft the signature smoothness of Blue Label.
             </p>
 
             <div className="flex gap-6 mb-10">

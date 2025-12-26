@@ -43,9 +43,9 @@ export default function BrandStory() {
           </h2>
 
           <p className="text-white/70 text-sm leading-relaxed mb-10 font-light">
-            Tại Webie Cellar, chúng tôi không chỉ bán rượu, chúng tôi kể những
-            câu chuyện. Mỗi chai rượu là một kiệt tác được tuyển chọn từ những
-            hầm rượu lâu đời nhất Châu Âu, mang đến trải nghiệm thượng lưu.
+            At Webie Cellar, we don't just sell wine; we tell stories. Each
+            bottle is a masterpiece curated from Europe's oldest cellars,
+            delivering a truly elite experience.
           </p>
 
           <div className="mx-auto md:mx-0 w-48">
